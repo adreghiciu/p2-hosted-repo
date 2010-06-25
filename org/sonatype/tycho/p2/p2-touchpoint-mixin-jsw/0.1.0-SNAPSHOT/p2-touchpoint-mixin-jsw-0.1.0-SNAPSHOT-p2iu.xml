@@ -2,7 +2,7 @@
 <?metadataRepository version='1.1.0'?>
 <repository name='tycho-p2-metadata' type='org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository' version='1'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1277467119286'/>
+    <property name='p2.timestamp' value='1277467119287'/>
   </properties>
   <units size='1'>
     <unit id='org.sonatype.tycho.p2:p2-touchpoint-mixin-jsw:jar' version='0.1.0.SNAPSHOT'>
