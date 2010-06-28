@@ -11,7 +11,7 @@
         <property name='artifact.fileName' value='p2-touchpoint-mixin-jsw-0.1.0-SNAPSHOT.jar'/>
         <property name='artifact.artifactId' value='p2-touchpoint-mixin-jsw'/>
         <property name='artifact.version' value='0.1.0-SNAPSHOT'/>
-        <property name='artifact.revision' value='2'/>        
+        <property name='artifact.revision' value='3'/>        
       </properties>
       <provides size='11'>
         <provided namespace='org.apache.maven.artifact' name='org.sonatype.tycho.p2:p2-touchpoint-mixin-jsw:jar' version='0.1.0.SNAPSHOT'/>
